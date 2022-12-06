@@ -3,10 +3,6 @@
   padding: 0;
 }
 
-body{
-  overflow-x: hidden;
-}
-
 @font-face {
   font-family: "godofwar";
   src: url("Font/GODOFWAR.TTF");
