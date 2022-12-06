@@ -3,6 +3,10 @@
   padding: 0;
 }
 
+body{
+  overflow-x: hidden;
+}
+
 @font-face {
   font-family: "godofwar";
   src: url("Font/GODOFWAR.TTF");
@@ -173,7 +177,7 @@
   font-family: 'godofwar', Arial, sans-serif;
   font-size: 6vh;
   position: absolute;
-  padding: 3vh;
+  padding: 5vh;
   color: rgb(41, 216, 255);
   display: flex;
   align-items: flex-start;
