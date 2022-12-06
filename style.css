@@ -170,6 +170,8 @@
 }
 
 .head2 {
+  width: 100%;
+  height: 100%;
   font-family: 'godofwar', Arial, sans-serif;
   font-size: 6vh;
   position: absolute;
